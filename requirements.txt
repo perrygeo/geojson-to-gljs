@@ -1,0 +1,3 @@
+jinja2
+shapely
+git+https://github.com/perrygeo/jenks.git#egg=jenks
